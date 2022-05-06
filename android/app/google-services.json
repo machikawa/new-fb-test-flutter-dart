@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873824545457",
+    "project_id": "flutter-chat-a6dc9",
+    "storage_bucket": "flutter-chat-a6dc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873824545457:android:4fcdb5c2913f94bae41090",
+        "android_client_info": {
+          "package_name": "tokyo.trmotors.hm.firebase.fb_settings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873824545457-s1cp9rned9lm98sdo2f1aovcl28lonco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ8q5n5hjWnaG-te9hjD9t3neFRsyyhS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873824545457-s1cp9rned9lm98sdo2f1aovcl28lonco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
